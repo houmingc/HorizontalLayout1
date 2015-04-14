@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/name">
+        <file>V7.mp4</file>
+        <file>clogo.gif</file>
+        <file>coolani.gif</file>
+        <file>index.jpeg</file>
+        <file>move.gif</file>
+        <file>trains.jpg</file>
+        <file>carTop4.jpeg</file>
+        <file>carTop3.jpeg</file>
+        <file>carTop2.jpeg</file>
+        <file>carTop.jpeg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>index.jpeg</file>
+        <file>images/images.qrc</file>
+        <file>images/house.png</file>
+        <file>images/car.png</file>
+        <file>images/boat.png</file>
+        <file>cartopView.png</file>
+    </qresource>
+</RCC>
